@@ -113,7 +113,7 @@ public class SQLEditorToolBar {
         _coolBarMgr.add(new ToolBarContributionItem(_sessionToolBarMgr));
         _coolBarMgr.add(new ToolBarContributionItem(_catalogToolBarMgr));
 
-        _coolBarMgr.update(true);
+       // _coolBarMgr.update(true);
 
     }
 

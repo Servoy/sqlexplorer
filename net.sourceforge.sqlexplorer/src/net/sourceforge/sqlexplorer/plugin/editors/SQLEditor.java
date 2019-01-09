@@ -763,7 +763,7 @@ public class SQLEditor extends EditorPart implements SwitchableSessionEditor {
 	 */
 	private void onCloseEditor() {
 		textEditor.getDocumentProvider().disconnect(getEditorInput());
-		textEditor.setInput(null);
+		//textEditor.setInput(null);
 		clearResults();
 	}
 
