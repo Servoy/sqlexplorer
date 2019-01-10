@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="net.sourceforge.sqlexplorer"
+      id="net.sourceforge.sqlexplorer.feature"
       label="Eclipse SQL Explorer"
       version="3.6.1.v20120708_SR6"
       provider-name="SQL Explorer Project (eclipsesql.sourceforge.net)"

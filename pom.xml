@@ -123,7 +123,19 @@
 
     
     <modules>
-	<module>sqlexplorer</module>
-	<module>nsqlexplorer_db2</module>
+		<module>sqlexplorer</module>
+		<module>sqlexplorer_db2</module>
+		<module>sqlexplorer_dbase</module>
+		<module>sqlexplorer_derby</module>
+		<module>sqlexplorer_help</module>
+		<module>sqlexplorer_informix</module>
+		<module>sqlexplorer_mssql</module>
+		<module>sqlexplorer_mysql</module>
+		<module>sqlexplorer_oracle</module>
+		<module>sqlexplorer_postgressql</module>
+		<module>sqlexplorer_sybase</module>
+		<module>net.sourceforge.sqlexplorer.nl</module>
+		<module>sqlexplorer_feature</module>
+		<module>sqlexplorer_updatesite</module>
     </modules>
 </project>

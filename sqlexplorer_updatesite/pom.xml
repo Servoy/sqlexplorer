@@ -1,0 +1,11 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+	<groupId>net.sourceforge.sqlexplorer</groupId>
+    <artifactId>parent</artifactId>
+    <version>3.6.2</version>
+	</parent>
+
+	<artifactId>net.sourceforge.sqlexplorer.site</artifactId>
+	<packaging>eclipse-repository</packaging>
+</project>
