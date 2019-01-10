@@ -18,7 +18,7 @@
         <property name='download.md5' value='34e78feeeb9bb0042d84ca21ed447a53'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.informix' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.informix' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='819099'/>
         <property name='download.size' value='819099'/>
@@ -39,7 +39,7 @@
         <property name='download.md5' value='08eeb7e35005648f6195839d3e0d256b'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.dbase' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.dbase' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='2655'/>
         <property name='download.size' value='2655'/>
@@ -67,7 +67,7 @@
         <property name='download.md5' value='ab2f9e6c8d28963f1a790b0289aa3b42'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.oracle' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.oracle' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='3439261'/>
         <property name='download.size' value='3439261'/>
@@ -89,7 +89,7 @@
         <property name='download.contentType' value='application/zip'/>
       </properties>
     </artifact>
-    <artifact classifier='org.eclipse.update.feature' id='net.sourceforge.sqlexplorer' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='org.eclipse.update.feature' id='net.sourceforge.sqlexplorer' version='3.6.2'>
       <properties size='4'>
         <property name='artifact.size' value='2250'/>
         <property name='download.size' value='2250'/>
@@ -97,7 +97,7 @@
         <property name='download.contentType' value='application/zip'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.help' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.help' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='2246245'/>
         <property name='download.size' value='2246245'/>
@@ -118,7 +118,7 @@
         <property name='download.md5' value='8eb6d0e3a5a8b657094475af742e801e'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.db2' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.db2' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='132574'/>
         <property name='download.size' value='132574'/>
@@ -146,7 +146,7 @@
         <property name='download.md5' value='b2e300e24e930346b20d03db8fda3820'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='5538232'/>
         <property name='download.size' value='5538232'/>
@@ -217,7 +217,7 @@
         <property name='download.contentType' value='application/zip'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.mssql' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.mssql' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='47884'/>
         <property name='download.size' value='47884'/>
@@ -357,7 +357,7 @@
         <property name='download.md5' value='b5519cd31e877fb97309c52542f968ed'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.postgresql' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.postgresql' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='101647'/>
         <property name='download.size' value='101647'/>
@@ -435,7 +435,7 @@
         <property name='download.md5' value='2df89b5195e816adf718b28ef39684b6'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.sybase' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.sybase' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='25668'/>
         <property name='download.size' value='25668'/>
@@ -449,7 +449,7 @@
         <property name='download.md5' value='d69dd12edcc1802d83ec0739308cc3ad'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.derby' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.derby' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='11143'/>
         <property name='download.size' value='11143'/>
@@ -521,7 +521,7 @@
         <property name='download.md5' value='20c7883c37caf454448fe5e5392f24f3'/>
       </properties>
     </artifact>
-    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.mysql' version='3.6.1.v20120708_SR6'>
+    <artifact classifier='osgi.bundle' id='net.sourceforge.sqlexplorer.mysql' version='3.6.2'>
       <properties size='3'>
         <property name='artifact.size' value='21644'/>
         <property name='download.size' value='21644'/>
